@@ -1,0 +1,9 @@
+# for jupyter
+jupyterlab
+numpy==1.26.4
+pandas
+plotly
+scikit-learn
+
+#
+sentence_transformers
